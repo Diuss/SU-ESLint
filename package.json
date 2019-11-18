@@ -1,0 +1,24 @@
+{
+  "name": "SU-ESLint",
+  "version": "1.0.0",
+  "description": "ESLint",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diuss/SU-ESLint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diuss/SU-ESLint/issues"
+  },
+  "homepage": "https://github.com/Diuss/SU-ESLint#readme"
+}
